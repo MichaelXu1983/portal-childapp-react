@@ -27,7 +27,7 @@
 
 ## <a name="介绍">介绍</a>
 
-基于 [create-react-app(3.0.1)](https://facebook.github.io/create-react-app/) & webpack(4)  & redux(4) & react-router(5) 的微前端子应用脚手架工程模板，可用于入门脚手架或者 SingleSPA 子应用脚手架使用
+基于 [create-react-app(3.0.1)](https://facebook.github.io/create-react-app/) & webpack(4)  & redux(4) & react-router(5) 的微前端子应用脚手架工程模板
 
 [进入独立应用](http://child.portal.michaelxu.cn/REACTCHILDAPP/)  
 
