@@ -29,13 +29,13 @@
 
 基于 [create-react-app(3.0.1)](https://facebook.github.io/create-react-app/) & webpack(4)  & redux(4) & react-router(5) 的微前端子应用脚手架工程模板
 
-[进入独立应用](http://child.portal.michaelxu.cn/REACTCHILDAPP/)  
+[进入独立应用](http://child.portal.b-platforms.com/REACTCHILDAPP/)  
 
-[进入 Portal 整合门户应用](http://portal.michaelxu.cn/)
+[进入 Portal 整合门户应用](http://portal.b-platforms.com/)
 
-[进入 Portal 应用注册中心](http://register.portal.michaelxu.cn/#/manager)
+[进入 Portal 应用注册中心](http://register.portal.b-platforms.com/)
 
-[进入 Portal 应用开发网站](http://guide.portal.michaelxu.cn/#/zh-CN)
+[进入 Portal 应用开发网站](http://guide.portal.b-platforms.com/)
 
 ## <a name="前置知识">前置知识</a>  
 ### <a name="路由">路由</a>
